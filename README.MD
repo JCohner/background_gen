@@ -2,4 +2,4 @@
 
 I have become facsinated with oddball backgrounds. Using cv2 to mess with images to generate some cool ones and wanted a git rep to take care of it
 
-<img src = "pics/mountains_pinkpinky.jpg">
+<img src = "pics/lf_background_trees_siney.jpg">
